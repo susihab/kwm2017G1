@@ -1,0 +1,16 @@
+{
+  "contacts" : [
+    {"id":"user_1","username":"Sgt. Pepper the |||","image":"https://api.adorable.io/avatars/285/xixi@adorable.png", "slogan":"This is all have", "lastOnline": "11:09",
+      "messages" : [
+        {"text":"Du bist das schlimmste Kind das ich mir vorstellen kann. Du entäuscht mich.","time":"12:04",
+          "image":"http://unsplash.com/photos/9bdt03k4ujw/download","type":0},
+        {"text":"Schade","time":"12:05","type":1}
+      ]
+    },
+    {"id":"user_2","username":"Bongo the Clown","image":"https://api.adorable.io/avatars/285/blublup@adorable.png", "slogan":"No means no", "lastOnline": "11:09",
+      "messages" : [
+
+      ]
+    }
+  ]
+}
